@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Hayqe
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Wijst de EvolutionX-Updater naar de eigen OTA-JSON in plaats van de
+         officiële Evolution-X/OTA-repo. -->
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/Hayqe/garnet-evolutionx/main/ota/{device}.json</string>
+</resources>

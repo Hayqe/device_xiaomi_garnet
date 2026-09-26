@@ -294,6 +294,7 @@ PRODUCT_PACKAGES += \
     SettingsProviderOverlayGarnetXIG05 \
     SystemUIOverlayGarnet \
     TelephonyOverlayGarnet \
+    UpdaterOverlayGarnet \
     WifiOverlayGarnet \
     WifiOverlayGarnetPoco \
     WifiOverlayGarnetRedmi \
